@@ -3,6 +3,9 @@
 
 <h2>Description</h2>
 
+I will be giving a detailed guideline on how to install and configure Virtual Box and Windows Server.
+
+ 
 
 <h2>Tools Needed</h2>
 
@@ -19,5 +22,9 @@
 
 <h4>Virtual Box</h4>
 
+Oracle VM Virtual box is a virtual machine used for virtualization purposes. It enables users to create desktops, operating systems, and servers as virtual machines. It can be used to deploy as many virtual machines as the host user has the resources for.
+
+Steps for installation:
+- <b>Step 1</b>
 
 <h4>Windows Server</h4>
